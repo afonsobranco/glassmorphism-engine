@@ -4,8 +4,6 @@ An interactive CSS glassmorphism generator with live preview, multi-format code 
 
 **[→ Live Demo](https://glassmorphism-engine.vercel.app/)**
 
-![Glassmorphism Engine preview](https://og-image.vercel.app/Glassmorphism%20Engine.png)
-
 ---
 
 ## Features
